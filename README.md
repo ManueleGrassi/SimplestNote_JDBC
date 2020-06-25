@@ -18,3 +18,5 @@ Per eseguire il seguente programma è necessario:
 - L'aggiunta di un utente con i vari permessi di connessione,lettura, scrittura e aggiornamento al proprio db. Per non modificare il codice aggiungere l'utente simplestNoteUser con password: simplestNotePwd;
 - Il dump del database simplest_note ideato da noi per l'esame.
 - Java11;
+
+Manuele Grassi, Daniele Alesse, Valerio Mastroiaco
